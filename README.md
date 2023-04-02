@@ -1,2 +1,1 @@
-# interview_zadanie
-# .robot automat na vyhladanie klucoveho slova
+#  FE automation test for google search of key word
